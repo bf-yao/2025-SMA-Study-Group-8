@@ -3,12 +3,12 @@
 
 ## 先閱讀檔案說明
 ## 安裝所需套件
-### 本地端運行 
+### 本地端語法 
   ```python
   pip install -r requirements.txt
   ```
 
-### Google Colab 運行
+### Google Colab 語法
   ```python
   !pip install -r requirements.txt
   ```
